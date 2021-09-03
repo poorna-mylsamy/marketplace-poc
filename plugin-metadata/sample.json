@@ -2,7 +2,7 @@
   "metadata": {
     "author": "Digital.ai",
     "artifactId": "osb-plugin-10.1.0",
-    "deploy_version": "10.3.0",
+    "deploy_version": "10.1.1",
     "groupId": "com.xebialabs.deployit.plugins",
     "categories": [],
     "description": "Oracle Service Bus (OSB) transforms complex and brittle architectures into agile integration networks by connecting, mediating, and managing interactions between services and applications. The OSB integration for the Digital.ai DevOps Products can import and delete OSB configurations and manage OSB customization files",
@@ -17,8 +17,8 @@
   {
     "metadata": {
       "author": "Digital.ai",
-      "artifactId": "xld-helm-plugin-10.1.2",
-      "deploy_version": "10.3.0",
+      "artifactId": "xld-helm-plugin-10.1.0",
+      "deploy_version": "10.1.1",
       "groupId": "com.xebialabs.deployit.plugins",
       "categories": ["Cloud and container plugins"],
       "description": "Helm Plugin will allow to deploy a helm chart using XLD. To run the helm chart you need to have the helm binary installed and connect via ssh using overthere plugin.",

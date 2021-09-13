@@ -26,7 +26,7 @@
       "website_url": "https://helm.sh/",
       "document_url": "https://docs.xebialabs.com/deploy/concept/xl-deploy-helm-plugin/",
       "maturity": "Incubating",
-      "name": "Helm Plugin",
+      "name": "Helm Plugin A",
       "supportedBy": "Digital.ai"
     }
   }]

@@ -17,7 +17,7 @@
   {
     "metadata": {
       "author": "Digital.ai",
-      "artifactId": "xld-helm-plugin-10.1.3",
+      "artifactId": "xld-helm-plugin-10.1.2",
       "deploy_version": "10.1.3",
       "groupId": "com.xebialabs.deployit.plugins",
       "categories": ["Cloud and container plugins"],

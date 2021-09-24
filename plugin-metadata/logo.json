@@ -5,149 +5,190 @@
     "author": "Digital.ai",
     "name": "AWS",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/2020-09/aws-cloudformation.png?itok=q-lZwunE"
-   },
-   {
-    "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-azure-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
     "name": "Azure",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/azure-for-xl-deploy.png?itok=hj2Nze76"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-cloud-foundry-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Cloud Foundry",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/cloud-foundry.png?itok=o2wVquwT"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-cyberark-conjur-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "CyberArk Conjur",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/cyberark-conjur.png?itok=WE60WEqo"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId":  "xld-docker-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Docker",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/docker.png?itok=_QmHG2Qx"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "glassfish-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "GlassFish",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/glassfish.png?itok=bL-s4jre"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-hashicorp-vault-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Hashicorp Vault",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/hashicorp-vault-for-xl-deploy.png?itok=C9Fyw8nJ"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-datapower-plugin",
     "version": "6.0.1",
     "author": "Digital.ai",
     "name": "IBM Datapower",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/ibm-datapower.png?itok=5FSj3Slo"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "iis-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "IIS",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/iis.png?itok=nOc6pLEG"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "jbossas-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "JBoss Application Server",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/jboss-application-server.png?itok=nP8w_y1M"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-kubernetes-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Kubernetes",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/kubernetes-for-xl-deploy.png?itok=h95Wwha7"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "windows-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Microsoft Windows",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/microsoft-windows.png?itok=nSTA-dSA"
-   },
-   "metadata": {
+   }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-openshift-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "OpenShift",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/2020-09/Digital.ai%20OpenShift%20Deploy.png?itok=W1b_6pwq"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "osb-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
     "name": "Oracle Service Bus",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-service-bus.png?itok=tvRe43sA"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-oracle-soa-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Oracle SOA",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-soa.png?itok=gocnqOH7"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "wls-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
     "name": "Oracle WebLogic Server",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-weblogic.png?itok=9ylqANac"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-puppet-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Puppet",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/puppet.png?itok=VKXPt576"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "xld-hashicorp-vault-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
     "name": "Hashicorp Vault",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/terraform.png?itok=whnSDy2W"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "tomcat-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
     "name": "Tomcat",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/tomcat.png?itok=tQLDb36N"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "was-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
     "name": "Websphere Application Server",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-application-server.png?itok=tNs8eYuV"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "wmq-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
     "name": "WebSphere MQ",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-mq.png?itok=46vuvEAz"
-   },
-   "metadata": {
+    }
+  },
+  {
+  "metadata": {
     "artifactId": "wps-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",

@@ -11,6 +11,7 @@
       "document_url": "https://docs.xebialabs.com/deploy/concept/xl-deploy-helm-plugin/",
       "maturity": "Incubating",
       "name": "Helm Plugin",
+      "product": "XL Deploy",
       "supportedBy": "Digital.ai"
     }
   },
@@ -27,6 +28,7 @@
     "document_url": "https://docs.xebialabs.com/deploy/concept/osb-plugin/",
     "maturity": "Mature",
     "name": "Oracle Service Bus",
+    "product": "XL Deploy",
     "supportedBy": "Digital.ai"
   }
 }]

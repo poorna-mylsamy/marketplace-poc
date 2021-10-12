@@ -1,9 +1,11 @@
- [ {
+  [ {
     "metadata": {
     "artifactId": "xld-aws-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Cloud", "Orchestration"],
     "name": "AWS",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/2020-09/aws-cloudformation.png?itok=q-lZwunE"
     }
   },
@@ -12,7 +14,9 @@
     "artifactId": "xld-azure-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
+    "categories": ["Cloud", "Orchestration"],
     "name": "Azure",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/azure-for-xl-deploy.png?itok=hj2Nze76"
     }
   },
@@ -21,7 +25,9 @@
     "artifactId": "xld-cloud-foundry-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Cloud", "PaaS"],
     "name": "Cloud Foundry",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/cloud-foundry.png?itok=o2wVquwT"
     }
   },
@@ -30,7 +36,9 @@
     "artifactId": "xld-cyberark-conjur-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Security", "Authentication"],
     "name": "CyberArk Conjur",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/cyberark-conjur.png?itok=WE60WEqo"
     }
   },
@@ -39,7 +47,9 @@
     "artifactId":  "xld-docker-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Containers"],
     "name": "Docker",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/docker.png?itok=_QmHG2Qx"
     }
   },
@@ -48,7 +58,9 @@
     "artifactId": "glassfish-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Application server"],
     "name": "GlassFish",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/glassfish.png?itok=bL-s4jre"
     }
   },
@@ -57,7 +69,9 @@
     "artifactId": "xld-hashicorp-vault-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["IaC"],
     "name": "Hashicorp Vault",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/hashicorp-vault-for-xl-deploy.png?itok=C9Fyw8nJ"
     }
   },
@@ -66,7 +80,9 @@
     "artifactId": "xld-datapower-plugin",
     "version": "6.0.1",
     "author": "Digital.ai",
+    "categories": ["Security"],
     "name": "IBM Datapower",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/ibm-datapower.png?itok=5FSj3Slo"
     }
   },
@@ -75,7 +91,9 @@
     "artifactId": "iis-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Web server"],
     "name": "IIS",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/iis.png?itok=nOc6pLEG"
     }
   },
@@ -84,7 +102,9 @@
     "artifactId": "jbossas-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Enterprise Application Platform"],
     "name": "JBoss Application Server",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/jboss-application-server.png?itok=nP8w_y1M"
     }
   },
@@ -93,7 +113,9 @@
     "artifactId": "xld-kubernetes-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Container", "Orchestration"],
     "name": "Kubernetes",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/kubernetes-for-xl-deploy.png?itok=h95Wwha7"
     }
   },
@@ -102,7 +124,9 @@
     "artifactId": "windows-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": [],
     "name": "Microsoft Windows",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/microsoft-windows.png?itok=nSTA-dSA"
    }
   },
@@ -111,7 +135,9 @@
     "artifactId": "xld-openshift-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Cloud", "PaaS"],
     "name": "OpenShift",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/2020-09/Digital.ai%20OpenShift%20Deploy.png?itok=W1b_6pwq"
     }
   },
@@ -120,7 +146,9 @@
     "artifactId": "osb-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
+    "categories": [],
     "name": "Oracle Service Bus",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-service-bus.png?itok=tvRe43sA"
     }
   },
@@ -129,7 +157,9 @@
     "artifactId": "xld-oracle-soa-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Orchestration"],
     "name": "Oracle SOA",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-soa.png?itok=gocnqOH7"
     }
   },
@@ -138,7 +168,9 @@
     "artifactId": "wls-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
+    "categories": ["Oracle plugins"],
     "name": "Oracle WebLogic Server",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-weblogic.png?itok=9ylqANac"
     }
   },
@@ -147,7 +179,9 @@
     "artifactId": "xld-puppet-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Infrastructure lifecycle management"],
     "name": "Puppet",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/puppet.png?itok=VKXPt576"
     }
   },
@@ -156,7 +190,9 @@
     "artifactId": "xld-hashicorp-vault-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
+    "categories": ["Security", "Storage"],
     "name": "Hashicorp Vault",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/terraform.png?itok=whnSDy2W"
     }
   },
@@ -165,7 +201,9 @@
     "artifactId": "tomcat-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
+    "categories": ["Servlet container"],
     "name": "Tomcat",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/tomcat.png?itok=tQLDb36N"
     }
   },
@@ -174,7 +212,9 @@
     "artifactId": "was-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
+    "categories": ["Application server"],
     "name": "Websphere Application Server",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-application-server.png?itok=tNs8eYuV"
     }
   },
@@ -183,7 +223,9 @@
     "artifactId": "wmq-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
+    "categories": ["Messaging"],
     "name": "WebSphere MQ",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-mq.png?itok=46vuvEAz"
     }
   },
@@ -192,9 +234,12 @@
     "artifactId": "wps-plugin",
     "version": "10.0.0",
     "author": "Digital.ai",
+    "categories": ["Process automation"],
     "name": "WebSphere Process Server",
+    "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-process-server.png?itok=4xO5xsgN"
    }
 }]
    
    
+

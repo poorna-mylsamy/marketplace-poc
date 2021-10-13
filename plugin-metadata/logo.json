@@ -4,6 +4,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Cloud", "Orchestration"],
+    "description": "The Amazon Web Services (AWS) integration for Digital.ai Deploy, formerly XebiaLabs XL Deploy, allows you to provision cloud-based environments on AWS and to use AWS products for load balancing, storage, container management, and functions as a service",
     "name": "AWS",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/2020-09/aws-cloudformation.png?itok=q-lZwunE"
@@ -15,6 +16,7 @@
     "version": "10.0.0",
     "author": "Digital.ai",
     "categories": ["Cloud", "Orchestration"],
+    "description": "Microsoft Azure is an enterprise-grade cloud computing platform. The Azure integration for Digital.ai Deploy, formerly XebiaLabs XL Deploy, allows you to:",
     "name": "Azure",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/azure-for-xl-deploy.png?itok=hj2Nze76"
@@ -26,6 +28,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Cloud", "PaaS"],
+    "description": "Cloud Foundry is an open source cloud computing platform as a service (PaaS) that provides a choice of clouds, frameworks, and application services. The Cloud Foundry integration for the Digital.ai DevOps Products supports:",
     "name": "Cloud Foundry",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/cloud-foundry.png?itok=o2wVquwT"
@@ -37,6 +40,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Security", "Authentication"],
+    "description": "CyberArk Conjur is an open-source secrets management solution that allows applications to securely authenticate, control, and audit non-human access to sensitive information across tools, applications, containers, and cloud environments. The Conjur integration for the Digital.ai DevOps Products makes it easy to automatically retrieve passwords, API keys, and other secrets for environment provisioning and application deployment.",
     "name": "CyberArk Conjur",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/cyberark-conjur.png?itok=WE60WEqo"
@@ -48,6 +52,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Containers"],
+    "description": "Docker is an open-source platform for developers and system administrators to build, ship, and run distributed application in software containers. The Docker integration for Digital.ai DevOps products uses the docker-py Jython library to communicate with the Docker daemon. It allows you to:",
     "name": "Docker",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/docker.png?itok=_QmHG2Qx"
@@ -59,6 +64,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Application server"],
+    "description": "Oracle GlassFish Server is a flexible, lightweight, and production-ready Java EE 6 application server. The GlassFish integration for the Digital.ai DevOps Products can:",
     "name": "GlassFish",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/glassfish.png?itok=bL-s4jre"
@@ -70,6 +76,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["IaC"],
+    "description": "HashiCorp Vault secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets. The Vault integration for Digital.ai Deploy, formerly XebiaLabs XL Deploy, makes it easy to automatically retrieve passwords, API keys, and other secrets for environment provisioning and application deployment",
     "name": "Hashicorp Vault",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/hashicorp-vault-for-xl-deploy.png?itok=C9Fyw8nJ"
@@ -81,6 +88,7 @@
     "version": "6.0.1",
     "author": "Digital.ai",
     "categories": ["Security"],
+    "description": "IBM DataPower Gateway is a security and integration platform for web, mobile, and cloud workloads. DataPower can secure, integrate, control, and optimize access to a range of workloads through a single gateway. The DataPower integration for the Digital.ai DevOps Products allows you to provide a configuration file in XML or ZIP format, import it in your DataPower appliance, and persist the configuration for a selected domain",
     "name": "IBM Datapower",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/ibm-datapower.png?itok=5FSj3Slo"
@@ -92,6 +100,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Web server"],
+    "description": "Internet Information Services (IIS) for Windows Server is a secure web server with a scalable and open architecture. The IIS integration for the Digital.ai DevOps Products can:",
     "name": "IIS",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/iis.png?itok=nOc6pLEG"
@@ -103,6 +112,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Enterprise Application Platform"],
+    "description": "Red Hat JBoss Enterprise Application Platform (EAP) is a Java EE-based application server runtime platform used for building, deploying, and hosting highly transactional Java applications and services. The JBoss Application Server integration for the Digital.ai DevOps Products can deploy standard application artifacts, as well as JBoss-specific artifacts and services. It can also automatically discover JBoss configurations",
     "name": "JBoss Application Server",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/jboss-application-server.png?itok=nP8w_y1M"
@@ -114,6 +124,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Container", "Orchestration"],
+    "description": "Kubernetes (K8s) is an open source container orchestration platform",
     "name": "Kubernetes",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/kubernetes-for-xl-deploy.png?itok=h95Wwha7"
@@ -125,6 +136,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": [],
+    "description": "The Microsoft Windows operating system integration for the Digital.ai DevOps Products can install and uninstall Windows Installer (MSI) files, import Windows registry files, and create and destroy Windows services and shares",
     "name": "Microsoft Windows",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/microsoft-windows.png?itok=nSTA-dSA"
@@ -136,6 +148,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Cloud", "PaaS"],
+    "description": "Red Hat OpenShift is a platform as a service (PaaS) product that supports many programming languages, databases, web application frameworks, and applications (web programming cartridges). The OpenShift integration for Digital.ai Deploy, formerly XebiaLabs XL Deploy, supports:",
     "name": "OpenShift",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/2020-09/Digital.ai%20OpenShift%20Deploy.png?itok=W1b_6pwq"
@@ -147,6 +160,7 @@
     "version": "10.0.0",
     "author": "Digital.ai",
     "categories": [],
+    "description": "Oracle Service Bus (OSB) transforms complex and brittle architectures into agile integration networks by connecting, mediating, and managing interactions between services and applications. The OSB integration for the Digital.ai DevOps Products can import and delete OSB configurations and manage OSB customization files",
     "name": "Oracle Service Bus",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-service-bus.png?itok=tvRe43sA"
@@ -158,6 +172,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Orchestration"],
+    "description": "Oracle SOA Suite is part of the Oracle Fusion Middleware family of products. It allows you to set up services, manage them, and orchestrate them in composite applications and business processes. The Oracle SOA integration for the Digital.ai DevOps Products allows you to deploy SOA composites to Oracle Fusion",
     "name": "Oracle SOA",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-soa.png?itok=gocnqOH7"
@@ -169,6 +184,7 @@
     "version": "10.0.0",
     "author": "Digital.ai",
     "categories": ["Oracle plugins"],
+    "description": "The Deploy Oracle WebLogic server (WLS) plugin is used to manage deployments and resources on a WebLogic server. It can deploy and undeploy application artifacts, as well as datasources and other JMS resources. You can extend the plugin to support more deployment options or management of new artifacts or resources on WebLogic.",
     "name": "Oracle WebLogic Server",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/oracle-weblogic.png?itok=9ylqANac"
@@ -180,6 +196,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Infrastructure lifecycle management"],
+    "description": "Puppet helps you manage infrastructure throughout its life cycle, from provisioning and configuration to orchestration and reporting",
     "name": "Puppet",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/puppet.png?itok=VKXPt576"
@@ -191,6 +208,7 @@
     "version": "10.0.0",
     "author": "Digital.ai",
     "categories": ["Security", "Storage"],
+    "description": "HashiCorp Vault secures, stores, and tightly controls access to tokens, passwords, certificates, API keys, and other secrets. The Vault integration for Digital.ai Deploy, formerly XebiaLabs XL Deploy, makes it easy to automatically retrieve passwords, API keys, and other secrets for environment provisioning and application deployment",
     "name": "Hashicorp Vault",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/terraform.png?itok=whnSDy2W"
@@ -202,6 +220,7 @@
     "version": "10.1.0",
     "author": "Digital.ai",
     "categories": ["Servlet container"],
+    "description": "Apache Tomcat is an open source software implementation of the Java Servlet and JavaServer Pages technologies. The Tomcat integration for the Digital.ai DevOps Products can:",
     "name": "Tomcat",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/tomcat.png?itok=tQLDb36N"
@@ -213,6 +232,7 @@
     "version": "10.0.0",
     "author": "Digital.ai",
     "categories": ["Application server"],
+    "description": "IBM WebSphere Application Server (WAS) is a fast, flexible Java application server runtime environment. The WebSphere Application Server integration for the Digital.ai DevOps Products can:",
     "name": "Websphere Application Server",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-application-server.png?itok=tNs8eYuV"
@@ -224,6 +244,7 @@
     "version": "10.0.0",
     "author": "Digital.ai",
     "categories": ["Messaging"],
+    "description": "IBM WebSphere MQ (formerly known as MQSeries) is an IBM standard for program-to-program messaging across multiple platforms. WebSphere MQ is sometimes referred to as message-oriented middleware (MOM). The WebSphere MQ integration for the Digital.ai DevOps Products can create and manage local queues and alias queues on a queue manager, and can start and stop queue managers",
     "name": "WebSphere MQ",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-mq.png?itok=46vuvEAz"
@@ -235,11 +256,14 @@
     "version": "10.0.0",
     "author": "Digital.ai",
     "categories": ["Process automation"],
+    "description": "IBM WebSphere Process Server (WPS) is a high-performance business process automation engine. The WebSphere Process Server integration for the Digital.ai DevOps Products can deploy and undeploy Process Server enterprise applications, and start and stop templates and applications",
     "name": "WebSphere Process Server",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-process-server.png?itok=4xO5xsgN"
    }
 }]
    
+   
+
    
 

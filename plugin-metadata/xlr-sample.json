@@ -1,0 +1,65 @@
+[ {
+    "metadata": {
+    "artifactId": "xlr-ansible-plugin",
+    "version": "9.6.0",
+    "author": "Digital.ai",
+    "categories": ["Provisioning", "Config Management"],
+    "description": "Ansible is a software platform for performing multi-node software deployments, task execution, and configuration management. The Ansible plugin for Digital.ai Release allows you to run playbooks on Ansible servers as part of your release processes.",
+    "name": "Ansible",
+    "product": "XL Release",
+    "productVersion": ["9.8.1"],
+    "image_url": "https://cdn.digital.ai/cdn/ff/1CYYd_S4Gmug-pipwsP3SMaNG-FBRYZwU9XmKGgVEY8/1599664016/public/styles/maxwidth_300/public/pt_logos/ansible-for-xl-release.png?itok=P1d5lR6w"
+    }
+  },
+  {
+    "metadata": {
+    "artifactId": "xlr-blackduck-plugin",
+    "version": "9.8.0",
+    "author": "Digital.ai",
+    "categories": ["Business Process Management"],
+    "description": "The Blackduck plugin for Digital.ai Release allows you to embed code risk analysis in your Continuous Delivery pipelines. You can automatically check code against various types of risk, such as license, security, and operational risks. Built-in code analysis also ensures that code is always automatically checked against compliance requirements as part of the release process.",
+    "name": "Blackduck",
+    "product": "XL Release",
+    "productVersion": ["9.8.1"],
+    "image_url": "https://cdn.digital.ai/cdn/ff/YMtiyHqmGQbwMnHB_b8BEpZb-gARNtsmZ0da1GxRcK4/1599723941/public/styles/maxwidth_300/public/pt_logos/black-duck.png?itok=TpSOw-U2"
+    }
+  },
+  {
+    "metadata": {
+    "artifactId": "xlr-checkmarx-plugin",
+    "version": "9.8.0",
+    "author": "Digital.ai",
+    "categories": ["Application Performance Management", "Security"],
+    "description": "Checkmarx is an application security solution that provides tools for static code analysis, open source analysis, integrated into the development process, used to identify security vulnerabilities within the code. With the Digital.ai Release Checkmarx plugin you can trigger scans in Checkmarx for your application, verify scan results, and check compliance directly from the Digital.ai Release user interface.",
+    "name": "Checkmarx",
+    "product": "XL Release",
+    "productVersion": ["9.8.1"],
+    "image_url": "https://cdn.digital.ai/cdn/ff/v6W2GTgzMBuQUR-7qFR_P9FT4mYHRiJSIdJfAItBP4s/1600108098/public/styles/maxwidth_300/public/pt_logos/checkmarx.png?itok=ZCrq8-Sr"
+    }
+  },
+  {
+    "metadata": {
+    "artifactId": "xlr-jenkins-plugin",
+    "version": "9.8.1",
+    "author": "Digital.ai",
+    "categories": ["Continuous Integration"],
+    "description": "Jenkins is an open source, cross-platform tool that provides continuous integration services for software development. It can build, test, and deliver software projects continuously, making it easy for developers to integrate changes. The Digital.ai Release plugin for Jenkins allows you to create new releases from Digital.ai Release templates and start releases directly from your Jenkins jobs.",
+    "name": "Jenkins",
+    "product": "XL Release",
+    "productVersion": ["9.8.1"],
+    "image_url": "https://cdn.digital.ai/cdn/ff/TWOC0L8_32dxt4cZtyUiSYtqaWMEvAyHN6ylLrq-pb8/1599853269/public/styles/maxwidth_300/public/2020-09/Digital.ai%20Jenkins%20Release.png?itok=U7h1f8sE"
+    }
+  },
+  {
+  "metadata": {
+    "artifactId": "xlr-jira-plugin",
+    "version": "9.8.1",
+    "author": "Digital.ai",
+    "categories": ["Project and Issue Tracking", "Application Lifecycle Management"],
+    "description": "Atlassian JIRA is a tool for agile teams to track bugs and issues, plan releases, and manage software development projects.",
+    "name": "JIRA",
+    "product": "XL Release",
+    "productVersion": ["9.8.1"],
+    "image_url": "https://cdn.digital.ai/cdn/ff/kJfIXkznuLB9Dv5HfqDTScjYZZ0lhH27ZvvBY8sVQnI/1599724093/public/styles/maxwidth_300/public/pt_logos/xl-release-for-jira.png?itok=re4_G9JU"
+   }
+}]

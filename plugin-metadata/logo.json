@@ -51,7 +51,7 @@
     "artifactId":  "xld-docker-plugin",
     "version": "10.1.0",
     "author": "Digital.ai",
-    "categories": ["Containers"],
+    "categories": ["Containers","Security"],
     "description": "Docker is an open-source platform for developers and system administrators to build, ship, and run distributed application in software containers. The Docker integration for Digital.ai DevOps products uses the docker-py Jython library to communicate with the Docker daemon. It allows you to:",
     "name": "Docker",
     "product": "XL Deploy",
@@ -260,7 +260,17 @@
     "name": "WebSphere Process Server",
     "product": "XL Deploy",
     "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/websphere-process-server.png?itok=4xO5xsgN"
-   }
+   },
+     "metadata": {
+    "artifactId": "xld-awd-plugin",
+    "version": "10.2.0",
+    "author": "Digital.ai",
+    "categories": ["Cloud", "Orchestration"],
+    "description": "The Amazon Web Services (AWS) integration for Digital.ai Deploy, formerly XebiaLabs XL Deploy, allows you to provision cloud-based environments on AWS and to use AWS products for load balancing, storage, container management, and functions as a service",
+    "name": "AWD",
+    "product": "XL Deploy",
+    "image_url": "https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/2020-09/aws-cloudformation.png?itok=q-lZwunE"
+    }
 }]
    
    
